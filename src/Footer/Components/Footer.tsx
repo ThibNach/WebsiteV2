@@ -7,6 +7,17 @@ const Footer = () => {
                     Proudly built with <span className="highlight">React</span> & <span
                     className="highlight">Bootstrap</span>
                 </p>
+                <i className="fa-brands fa-github me-2"></i>
+                <span>
+                      <a
+                                            href={ `https://github.com/ThibNach/WebsiteV2` }
+                                            target="_blank"
+                                            rel="noopener noreferrer"
+                                            className="text-decoration-none text-reset cv-link"
+                      >
+                                            View Source Code
+                      </a>
+                </span>
             </div>
         </footer>
     );
