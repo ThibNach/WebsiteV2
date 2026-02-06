@@ -1,0 +1,99 @@
+{
+    "personalInfo": {
+        "fullName": "THIBAUT SPREUX",
+        "jobTitle": "GAME DEVELOPER",
+        "address": "Rue du Mont d'Or, 17, 7540 Kain, Belgium",
+        "phone": "0032 495 87 37 07",
+        "email": "thibaut.spreux@gmail.com",
+        "github": "github.com/ThibNach",
+        "linkedin": "https://www.linkedin.com/in/thibaut-spreux-77729a69",
+        "website": "www.thibautspreux.be",
+        "strengths": [
+            "DYNAMIC",
+            "SOCIABLE",
+            "CONSCIENTIOUS"
+        ],
+        "languages": [
+            "FRENCH",
+            "ENGLISH",
+            "SPANISH",
+            "DUTCH"
+        ],
+        "hobbies": [
+            "PADEL",
+            "SQUASH",
+            "PLAYING AND MAKING VIDEO GAMES"
+        ],
+        "quote": "ONLY THOSE WHO DARE, GIVE THEMSELVES THE RIGHT TO SUCCEED."
+    },
+    "workExperience": [
+        {
+            "company": "Fishing Cactus",
+            "role": "GAME DEVELOPER",
+            "period": "January 2023 - August 2025",
+            "tasks": [
+                "Worked with designers, artists and producers to create quality games",
+                "Identified and fixed code errors",
+                "Participated in code reviews and team meetings",
+                "Developed and maintained clean code for Unity (C#): Gameplay features for V.R. games, Multiplayers features, Artificial Intelligence, Harmonised game architecture, Multi-platform compatibility",
+                "Developed and maintained clean code for Unreal Engine (C++/Blueprint): User Interface, Gameplay features, Sub-systems for an open world, Mini-Games"
+            ]
+        },
+        {
+            "company": "Vautour Tennis & Padel Club",
+            "role": "FREELANCE Manager HORECA",
+            "period": "March 2020 - September 2021",
+            "tasks": [
+                "Employees management, stock management, event organization"
+            ]
+        },
+        {
+            "company": "Kain Tennis Club, Negundo Sports, Sport Club de l'Abbaye",
+            "role": "FREELANCE waiter HORECA",
+            "period": "February 2016 - March 2020",
+            "tasks": [
+                "Waiter HORECA: table service, bar service, customer relations, facilities maintenance"
+            ]
+        },
+        {
+            "company": "WDM Belgium (now Bisnode)",
+            "role": "INPUT QUALITY OFFICER",
+            "period": "September 2011 - August 2012",
+            "tasks": [
+                "Receive and analyze customer files",
+                "Format files in company format",
+                "Check files for anomalies",
+                "Detection of sources of error",
+                "Select addresses from database according to specific criteria"
+            ]
+        }
+    ],
+    "education": [
+        {
+            "period": "2022",
+            "title": "Game Developer training (6 months)",
+            "institution": "@Technocité"
+        },
+        {
+            "period": "2021",
+            "title": "Unity 3D, Blender & GameJam training",
+            "institution": "@Technocité"
+        },
+        {
+            "period": "2019",
+            "title": "Padel Animator degree (AFP training) & Instructor degree (ADEPS)",
+            "institution": "AFP / ADEPS"
+        },
+        {
+            "period": "2010-2016",
+            "title": "Bachelor's degree in business computing",
+            "institution": "@I.P.E.P.S.H.O. (Tournai) and @I.E.P.S.C.F (Péruwelz)",
+            "description": "Evening classes - Third year internship @Web Identity, websites creation"
+        },
+        {
+            "period": "2002-2010",
+            "title": "General education 'Sciences & Sports'",
+            "institution": "@Collège Notre-Dame de Kain"
+        }
+    ]
+}

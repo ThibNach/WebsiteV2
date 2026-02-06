@@ -1,0 +1,36 @@
+root = true
+
+[*]
+indent_style = space
+indent_size = 4
+continuation_indent_size = 4
+
+[*.{js,jsx,ts,tsx}]
+# Désactive l'alignement sur les parenthèses/accolades des appels de méthode
+ij_typescript_align_multiline_parameters = false
+ij_typescript_align_multiline_call_arguments = false
+ij_typescript_align_multiline_expression = false
+
+# Force le wrap des paramètres de fonction
+ij_typescript_force_reformat_on_paste = true
+ij_typescript_function_declaration_parameters_wrap = always
+ij_typescript_function_declaration_parameters_new_line_after_left_paren = true
+ij_typescript_function_declaration_parameters_right_paren_on_new_line = true
+
+# Espacement spécifique (accolades aérées)
+ij_typescript_spaces_within_object_literal_braces = true
+ij_typescript_spaces_within_object_type_braces = true
+ij_typescript_spaces_within_imports = true
+
+# Alignements (pour vos imports alignés)
+ij_typescript_align_imports_statements = true
+#ij_typescript_align_multiline_parameters = true
+ij_typescript_align_multiline_extends_list = true
+
+# Conserver les sauts de ligne que vous faites manuellement
+ij_typescript_keep_blank_lines_in_code = 1
+ij_typescript_keep_simple_blocks_in_one_line = false
+
+# Configuration React / JSX
+ij_typescript_jsx_bracket_saw_line = false
+ij_typescript_jsx_force_reformat_on_paste = true

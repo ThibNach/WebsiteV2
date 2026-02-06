@@ -1,0 +1,12 @@
+[
+    {
+        "title": "Frontend Development",
+        "description": "Building responsive and interactive SPAs using React, TypeScript and modern CSS frameworks.",
+        "icon": "fa-code"
+    },
+    {
+        "title": "Software Architecture",
+        "description": "Designing clean, maintainable and scalable code architectures with a focus on SOLID principles.",
+        "icon": "fa-sitemap"
+    }
+]
