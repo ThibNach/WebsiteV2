@@ -566,14 +566,14 @@ progress {
 }
 
 .display-6 {
-    font-size: 2.5rem;
-    font-weight: 300;
+    font-size: 2rem;
+    font-weight: 200;
     line-height: 1.2;
 }
 
 @media (min-width: 1200px) {
     .display-6 {
-        font-size: 2.5rem;
+        font-size: 2rem;
     }
 }
 
