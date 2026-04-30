@@ -35,7 +35,7 @@ export const AboutDataSchema = z.object({
                                             linkedin: z.string(),
                                             github: z.string(),
                                             strengths: z.array(z.string()),
-                                            tools: z.string(),
+                                            tools: z.array(z.string()),
                                             languages: z.array(z.string()),
                                             hobbies: z.array(z.string()),
                                             quote: z.string(),
