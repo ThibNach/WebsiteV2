@@ -13,6 +13,12 @@
             "SOCIABLE",
             "CONSCIENTIOUS"
         ],
+        "Tools": [
+            "GIT",
+            "VERCEL",
+            "TEAMCITY",
+            "SUPABASE"
+        ],
         "languages": [
             "FRENCH",
             "ENGLISH",

@@ -172,6 +172,9 @@ const Resume = (
                             ) ) }
                         
                         </SideBarSection>
+                        <SideBarSection title="Tools">
+                            <p className="small mb-0 opacity-75">{ personalData.tools.join( " • " ) }</p>
+                        </SideBarSection>
                         <SideBarSection title="Languages">
                             <p className="small mb-0 opacity-75">{ personalData.languages.join( " • " ) }</p>
                         </SideBarSection>
