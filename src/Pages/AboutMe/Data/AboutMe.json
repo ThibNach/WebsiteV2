@@ -61,8 +61,7 @@
             "period": "September 2011 - August 2012",
             "tasks": [
                 "Receive and analyze customer files to format them in company format",
-                "Check files for anomalies",
-                "Detection of sources of error",
+                "Check files for anomalies and sources of error",
                 "Select addresses from database according to specific criteria"
             ]
         }
