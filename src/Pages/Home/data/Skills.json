@@ -3,5 +3,10 @@
         "title": "Game Development",
         "description": "Experienced in Unity and Unreal Engine, creating immersive gameplay mechanics and optimized systems.",
         "icon": "fa-gamepad"
+    },
+    {
+        "title": "Software Architecture",
+        "description": "Designing clean, maintainable and scalable code architectures with a focus on SOLID principles.",
+        "icon": "fa-sitemap"
     }
 ]
