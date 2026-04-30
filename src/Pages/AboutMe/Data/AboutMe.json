@@ -70,6 +70,11 @@
     ],
     "education": [
         {
+            "period": "04/2026",
+            "title": "25 days advanced Python Training",
+            "institution": "@Technocité"
+        },
+        {
             "period": "2022",
             "title": "Game Developer training (6 months)",
             "institution": "@Technocité"
