@@ -13,7 +13,7 @@
             "SOCIABLE",
             "CONSCIENTIOUS"
         ],
-        "Tools": [
+        "tools": [
             "GIT",
             "VERCEL",
             "TEAMCITY",
