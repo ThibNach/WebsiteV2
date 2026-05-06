@@ -167,10 +167,7 @@ const Resume = (
                             </ul>
                         </SideBarSection>
                         <SideBarSection title="Strengths">
-                            { personalData.strengths.map( s => (
-                                <span key={ s } className="badge cv-badge-outline">{ s }</span>
-                            ) ) }
-                        
+                            <p className="small mb-0 opacity-75"> { personalData.strengths.join( " • " )}</p>                        
                         </SideBarSection>
                         <SideBarSection title="Tools">
                             <p className="small mb-0 opacity-75">{ personalData.tools.join( " • " ) }</p>
