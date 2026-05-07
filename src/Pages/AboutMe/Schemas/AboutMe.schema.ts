@@ -27,6 +27,7 @@ export type WorkExperience = z.infer<typeof CVExperienceSchema>;
 
 export const AboutDataSchema = z.object({
                                             fullName: z.string(),
+                                            birthDate: z.string(),
                                             jobTitle: z.string(),
                                             address: z.string(),
                                             phone: z.string(),
@@ -39,6 +40,7 @@ export const AboutDataSchema = z.object({
                                             languages: z.array(z.string()),
                                             hobbies: z.array(z.string()),
                                             quote: z.string(),
+                                            headline: z.string(),
                                         });
 
 export type AboutData = z.infer<typeof AboutDataSchema>;

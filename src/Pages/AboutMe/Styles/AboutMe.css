@@ -27,21 +27,19 @@
     margin-bottom: 1rem !important
 }
 
-.cv-main-title {
-    margin-bottom: 0.75rem !important;
-}
-
 header.mb-5 {
-    margin-bottom: 1.5rem !important;
-    padding-bottom: 1rem !important;
+    margin-bottom: 1.2rem !important;
+    padding-bottom: 0.2rem !important;
 }
 
-.cv-header-quote {
-    white-space: nowrap;
-    overflow: hidden;
-    text-overflow: ellipsis;
+.cv-quote {
+    display : flex;
     font-size: 0.9rem;
-    max-width: 100%;
+    margin-top: auto;
+    text-align: justify;
+    text-justify: inter-word;
+    line-height: 1.1;
+    letter-spacing: 1px;
 }
 
 .export-button {
@@ -54,6 +52,8 @@ header.mb-5 {
 }
 
 .cv-sidebar {
+    display: flex;
+    flex-direction: column;
     background-color: var(--main-color-hexa);
     min-height: 297mm;
     padding: 1.2rem !important;
@@ -63,7 +63,7 @@ header.mb-5 {
     font-size: 1.2rem;
     text-transform: uppercase;
     border-bottom: 2px solid white;
-    padding-bottom: 0.5rem;
+    padding-bottom: 0.1rem;
     margin-bottom: 1rem;
 }
 
@@ -71,8 +71,9 @@ header.mb-5 {
     color: var(--main-color-hexa);
     font-weight: bold;
     margin-top: 0.5rem !important;
-    margin-bottom: 0.5rem !important;
-    font-size: 1.2rem !important;
+    margin-bottom: 0.8rem !important;
+    font-size: 1.4rem !important;
+    padding-bottom: 0.1rem;
 }
 
 .cv-container {
@@ -137,6 +138,13 @@ header.mb-5 {
     object-fit: cover;
     border: 3px solid rgba(255, 255, 255, 0.2);
     margin-top: 10px;
+}
+
+.cv-header-headline{
+    text-align: justify;
+    text-justify: inter-word;
+    line-height: 1.1;
+    letter-spacing: 1px;
 }
 
 

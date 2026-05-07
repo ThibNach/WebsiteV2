@@ -1,7 +1,8 @@
 {
     "personalInfo": {
         "fullName": "THIBAUT SPREUX",
-        "jobTitle": "SOFTWARE DEVELOPER",
+        "birthDate": "1990-03-22",
+        "jobTitle": "MEDIOR SOFTWARE DEVELOPER",
         "address": "Rue du Mont d'Or, 17, 7540 Kain, Belgium",
         "phone": "0032 495 87 37 07",
         "email": "thibaut.spreux@gmail.com",
@@ -30,19 +31,18 @@
             "SQUASH",
             "PLAYING AND MAKING VIDEO GAMES"
         ],
-        "quote": "ONLY THOSE WHO DARE, GIVE THEMSELVES THE RIGHT TO SUCCEED."
-    },
+        "quote": "ONLY THOSE WHO DARE, GIVE THEMSELVES THE RIGHT TO SUCCEED.",
+        "headline":   "3 years of production development experience, strong communication skills, and more than 5 years of practical business/user perspective from HORECA company management. Focused on clean architecture, maintainable code, useful software, teamwork, and stable long-term growth in tech."
+        },
     "workExperience": [
         {
             "company": "Fishing Cactus",
             "role": "GAME DEVELOPER",
             "period": "January 2023 - August 2025",
             "tasks": [
-                "Worked with designers, artists and producers to create quality games",
+                "Worked with designers, artists, producers and other developers to create quality games with participating in code reviews and team meetings",
                 "Identified and fixed code errors",
-                "Participated in code reviews and team meetings",
-                "Developed and maintained clean code for Unity (C#): Gameplay features for V.R. games, Multiplayers features, Artificial Intelligence, Harmonised game architecture, Multi-platform compatibility",
-                "Developed and maintained clean code for Unreal Engine (C++/Blueprint): User Interface, Gameplay features, Sub-systems for an open world, Mini-Games"
+                "Developed and maintained clean code for Unity (C#) and Unreal Engine (C++/Blueprint): Gameplay features for V.R. and console games, Multiplayers features, Artificial Intelligence, Harmonised game architecture, Multi-platform compatibility, User interface, Sub-systems for an open world, Mini-Games"
             ]
         },
         {
@@ -55,7 +55,7 @@
         },
         {
             "company": "Kain Tennis Club, Negundo Sports, Sport Club de l'Abbaye",
-            "role": "FREELANCE waiter HORECA",
+            "role": "FREELANCE Waiter HORECA",
             "period": "February 2016 - March 2020",
             "tasks": [
                 "Waiter HORECA: table service, bar service, customer relations, facilities maintenance"
@@ -73,7 +73,7 @@
     ],
     "education": [
         {
-            "period": "04/2026",
+            "period": "April 2026",
             "title": "25 days advanced Python training",
             "institution": "@Technocité"
         },
@@ -90,7 +90,7 @@
         {
             "period": "2019",
             "title": "Padel Animator degree (AFP training) & Instructor degree (ADEPS)",
-            "institution": "AFP / ADEPS"
+            "institution": "@AFP / @ADEPS"
         },
         {
             "period": "2010-2016",
