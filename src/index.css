@@ -8047,7 +8047,10 @@ textarea.form-control-lg {
 }
 
 .p-3 {
-    padding: 1rem !important;
+    padding-top: 1rem !important;
+    padding-left: 1rem !important;
+    padding-right: 1rem !important;
+    padding-bottom: 0 !important;
 }
 
 .p-4 {

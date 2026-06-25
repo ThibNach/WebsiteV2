@@ -57,7 +57,7 @@ const ExperienceItem = (
                 <h4 className="h6 fw-bold text-dark mb-0">{role}</h4>
                 <span className="cv-period badge bg-light text-muted fw-normal">{period}</span>
             </div>
-            <div className="text-primary fw-medium mb-1">@{company}</div>
+            <div className="text-primary fw-medium mb-0">@{company}</div>
             <DetailsList details={tasks}/>
         </div>
     );
@@ -222,7 +222,7 @@ const Resume = (
                                 <ExperienceItem key={i} {...exp} />
                             ))}
                         </MainContentSection>
-                        <div className="display-6 border-bottom mb-3"></div>
+                        <div className="display-6 border-bottom mb-2"></div>
                         <MainContentSection title="Education & Training">
                             {education.map((
                                 edu: Education,

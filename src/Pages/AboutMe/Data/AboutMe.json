@@ -73,6 +73,11 @@
     ],
     "education": [
         {
+            "period":"June 2026 - Now",
+            "title": "Odoo Developer training",
+            "institution": "@Technocité"
+        },
+        {
             "period": "April 2026",
             "title": "25 days advanced Python training",
             "institution": "@Technocité"
